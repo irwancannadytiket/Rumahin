@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rumah-in</string>
+    <string name="five_steps">5 Langkah</string>
+    <string name="isi_form">Isi Form</string>
+    <string name="info_kpr">Info Kpr</string>
+    <string name="cari_rumah">Cari Rumah</string>
+</resources>
